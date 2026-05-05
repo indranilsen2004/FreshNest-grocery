@@ -1,4 +1,4 @@
-<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/e3816c0b-044b-489f-9c34-9e363cedd373" />FreshNest Grocery
+FreshNust Grocery
 
 A modern grocery website designed to help users explore fresh and organic products with a clean, simple, and user friendly interface. This project focuses on delivering a smooth browsing experience while promoting healthy and eco conscious shopping choices.
 
