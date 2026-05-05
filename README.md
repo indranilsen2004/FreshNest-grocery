@@ -1,4 +1,4 @@
-FreshNest Grocery
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/e3816c0b-044b-489f-9c34-9e363cedd373" />FreshNest Grocery
 
 A modern grocery website designed to help users explore fresh and organic products with a clean, simple, and user friendly interface. This project focuses on delivering a smooth browsing experience while promoting healthy and eco conscious shopping choices.
 
@@ -34,9 +34,10 @@ How to Run Locally
 2. Open the project folder
 3. Run the index.html file in your browser
 
-Screenshots
+Screenshots:
 
-Add screenshots of your homepage, product section, and features section here to make your project more attractive.
+<img width="1600" height="846" alt="image" src="https://github.com/user-attachments/assets/f0f78fa0-18ea-44f2-b678-21b03c5e1c5e" />
+
 
 Future Improvements
 
@@ -54,7 +55,7 @@ Author
 
 Indranil Sen
 
-LinkedIn Profile
+LinkedIn Profile:
 https://www.linkedin.com/in/indranil-sen-42853b388?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 Contribution
